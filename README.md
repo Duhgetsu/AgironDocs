@@ -30,15 +30,25 @@ Compatibilidade 100% porque usam o mesmo *KERNEL (CORDOVA)*
 
 ### PADRÃO APP EM HTML
 ><html>
+
 >   <head>
+
 >       <title></title>
+
 >   </head>
+
 >   <body>
+
 >       <header/> = cabeçalho do app 
+
 >       <section/> = conteúdo do app
+
 >       <footer/> = rodapé do app
+
 >       <script/> = JavaScript e importações de bibliotecas
+
 >   </body>
+
 ></html>
 
 ### JQUERY
