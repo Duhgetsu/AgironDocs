@@ -29,17 +29,17 @@ Compatibilidade 100% porque usam o mesmo *KERNEL (CORDOVA)*
 
 
 ### PADRÃO APP EM HTML
-><html>
-> <head>
->  <title></title>
-> </head>
-> <body>
->  <header/> = cabeçalho do app 
->  <section/> = conteúdo do app
->  <footer/> = rodapé do app
->  <script/> = JavaScript e importações de bibliotecas
-> </body>
-></html>
+>* <html>
+> * <head>
+>  * <title></title>
+> * </head>
+> * <body>
+>  * <header/> = cabeçalho do app 
+>  * <section/> = conteúdo do app
+>  * <footer/> = rodapé do app
+>  * <script/> = JavaScript e importações de bibliotecas
+> * </body>
+>* </html>
 
 ### JQUERY
 Javascript é um trabalho muito chato e braçal, para amenizar isso utilizaremos a biblioteca *JQUERY*. Sempre importar no final da página (antes de fechar o `<body>`)
